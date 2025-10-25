@@ -10,6 +10,20 @@ How to reach me
 
 * For now, please contact me via my university email *nwlasher@buffalo.edu*
 
+Note that not all of these are publically visible for Academic Integrity Concerns---
+
+Previous Projects:
+* PONG on the Tiva C-series Launchpad, done entirely in ARM asm (help)
+* Implementations of malloc, calloc, and realloc from undergrad assignments
+* Full libraries of working project artifacts to come soon 
+
+I'm Currently working on multiple projects:
+* CSE 450/453 Hardware/Software Integration via The mobile pnuematic projectile motion platform (cannon)
+* Re-implementing PONG on an FPGA (previously done in ARM asm)
+* Motion-controlled 2048 on an LED Matrix (UB Hacking 2025)
+* More to Come!
+
+
 
 <!--
 **nwlasher/nwlasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
