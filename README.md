@@ -15,7 +15,7 @@ Note that not all of these are publically visible for Academic Integrity Concern
 Previous Projects:
 * PONG on the Tiva C-series Launchpad, done entirely in ARM asm (help)
 * Implementations of malloc, calloc, and realloc from undergrad assignments
-* Full libraries of working project artifacts to come soon 
+* Libraries of working project artifacts to come soon.
 
 I'm Currently working on multiple projects:
 * CSE 450/453 Hardware/Software Integration - An instrumented projectile for the mobile pnuematic projectile motion platform (cannon) to track flight time
