@@ -18,8 +18,8 @@ Previous Projects:
 * Full libraries of working project artifacts to come soon 
 
 I'm Currently working on multiple projects:
-* CSE 450/453 Hardware/Software Integration via The mobile pnuematic projectile motion platform (cannon)
-* Re-implementing PONG on an FPGA (previously done in ARM asm)
+* CSE 450/453 Hardware/Software Integration - An instrumented projectile for the mobile pnuematic projectile motion platform (cannon) to track flight time
+* EE 478 VHDL - Re-implementing PONG on an FPGA (previously done in ARM asm)
 * Motion-controlled 2048 on an LED Matrix (UB Hacking 2025)
 * More to Come!
 
